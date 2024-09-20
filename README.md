@@ -4,7 +4,7 @@ This project involves web scraping data from various Mars-related websites and p
 
 # Project Overview
 
-##Part 1: Scrape Mars News
+## Part 1: Scrape Mars News
 
 In this part, we scrape the latest Mars news articles from the NASA Mars News Site. The objective is to extract the titles and preview text of recent articles and store them in a structured Python data format (list of dictionaries).
 
